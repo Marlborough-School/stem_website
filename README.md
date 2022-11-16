@@ -1,6 +1,8 @@
 # marlborough_stem_website
 Website for Marlborough STEM Program
 
+[Live site](https://marlborough-school.github.io/stem_website)
+
 
 ## Building the project
 
