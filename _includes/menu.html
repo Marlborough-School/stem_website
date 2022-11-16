@@ -1,0 +1,17 @@
+{% include base.html %}
+
+<aside id="sidebar">
+    <nav id="navigation">
+      <h2>Menu</h2>
+      <ul>
+        {% for link in site.links %}
+        <!-- <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li> -->
+        <!-- dk: relative path 'base' calculated in base.html -->
+          <li><a href="{{ base }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+        <!--
+        <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a></li>
+        -->
+      </ul>
+    </nav>
+</aside>

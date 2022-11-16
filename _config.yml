@@ -1,0 +1,50 @@
+# Site Settings
+title: Marlborough School STEM+ Program - All Girls Private Middle & High School Los Angeles
+email: Darren.Kessner@marlborough.org
+description: Marlborough Los Angeles girls school STEM coding robotics engineering program
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://stem.marlborough.org" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: Marlborough STEM+ Program
+user_description:
+#disqus_username: disqus_username
+
+# Social Media
+# Remove the item if you don't need it
+#github_username: github_username
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Girls Code
+    url: /girls_code
+  - title: Marlborough Matter(s)
+    url: /mm/
+  - title: Programs
+    url: /programs/
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
+

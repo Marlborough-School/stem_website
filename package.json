@@ -1,0 +1,46 @@
+{
+  "name": "stem.marlborough.org",
+  "version": "2.0.0",
+  "description": "Marlborough STEM+ Program",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "jekyll",
+    "blog",
+    "css",
+    "js",
+    "gulp",
+    "stylus"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.14.0",
+    "browser-sync": "^2.18.13",
+    "child_process": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "jeet": "^7.1.0",
+    "kouto-swiss": "^1.1.0",
+    "minimist": "^1.2.0",
+    "rupture": "^0.6.2"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
+  }
+}
