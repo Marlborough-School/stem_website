@@ -5,5 +5,5 @@ gem 'jekyll'
 gem 'jemoji'
 gem 'json'
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 gem "nokogiri", ">= 1.13"
