@@ -6,6 +6,14 @@ Website for Marlborough STEM Program
 
 ## Building the project
 
+### Ruby version
+
+```
+rvm get stable
+rvm install ruby --latest
+```
+
+
 ### Jekyll requirements:
 
 * gcc, make
