@@ -17,6 +17,5 @@ Los Angeles, CA  90004
 
 [Andrew Witman](mailto:Andrew.Witman@marlborough.org) (Robotics)
 
-[Lee Hamill, PhD](mailto:Lee.Hamill@marlborough.org) (Engineering)
 
 

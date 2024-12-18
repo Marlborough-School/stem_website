@@ -51,22 +51,6 @@ Processing language. In all his classes Andrew loves incorporating creativity,
 iterative design, and how computer science and fabrication technology can
 empower students to make almost anything. 
 
-### Lee Hamill, PhD _(Engineering)_
-
-<img width="25%" 
-     src="{{ base }}/assets/img/lee.jpg"  
-     align="left" 
-     style="float: left; margin: 0 20px -10px 0;">
-Dr. Lee Hamill is a science instructor at Marlborough School. In addition to
-teaching physics and engineering courses, Lee serves as a mentor for
-Marlborough’s four FTC robotics teams. She holds a PhD in Materials Science
-from the University of Southern California and bachelor’s degrees in Physics
-and Environmental Analysis & Policy from Boston University. Though Lee finds
-the content of what she teaches important, she is much more excited about the
-opportunities these courses provide for students to practice and develop their
-critical thinking and creative problem solving skills.
-
-
 
 <br/>
 <small>
