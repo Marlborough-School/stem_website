@@ -47,4 +47,13 @@ In project directory:
 
 
 
+### When stuff goes wrong
+
+
+```
+bundler update --bundler
+```
+
+
+
 
